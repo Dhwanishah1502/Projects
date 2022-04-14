@@ -1,2 +1,2 @@
-# Projects
-A comprehensive list and description of projects and / or their demos. Since there is some work not open to the public, this is where you could find sharable pieces. Contact me if you'd like to know more!
+# Vinu
+My journey through problem analysis, customer and market research to finally ideating and working with a team of seven developers and one manager to help 26,000 children in USA with Cochlear implant to learn to hear better.
